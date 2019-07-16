@@ -1,0 +1,1 @@
+ ps -ef = it will all the process details
