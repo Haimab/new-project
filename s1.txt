@@ -1,0 +1,3 @@
+ln -s filename directoryname = soft link
+head -15 filename = it displays first 15 line of the file
+

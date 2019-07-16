@@ -1,0 +1,2 @@
+ls -r = list of reverse order
+uname -a =kernel version check
