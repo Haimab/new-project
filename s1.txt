@@ -1,3 +1,4 @@
-ln -s filename directoryname = soft link
-head -15 filename = it displays first 15 line of the file
+1: ln -s filename directoryname = soft link
+2: head -15 filename = it displays first 15 line of the file
+3: 644 is the default permission of file permission
 
